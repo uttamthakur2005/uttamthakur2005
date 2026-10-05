@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development Projects<br>👯 I’m looking to collaborate on Full Stack & Open Source Projects<br>🤝 I’m looking for help with DevOps, Cloud & Deployment<br>🌱 I’m currently learning Full Stack Development & DevOps<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Git & GitHub<br>⚡ Fun fact: I love building projects and learning new technologies 🚀
+🔭 I’m currently working on Full Stack Web Development & Projects<br>👯 I’m looking to collaborate on Full Stack & Open Source Projects<br>🤝 I’m looking for help with DevOps, Cloud & Deployment<br>🌱 I’m currently learning Full Stack Development & DevOps<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Git & GitHub<br>⚡ Fun fact: I love building projects and learning new technologies 🚀
 
 
 ## 🌐 Socials:
